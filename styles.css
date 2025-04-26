@@ -1,0 +1,22 @@
+img {
+    border-radius: 20%;
+    margin-bottom: 16px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+footer {
+    font-size: 14px;
+    color: gray;
+}
+
+body{
+    padding: 16px;
+    text-align: center;
+    background-image: url('./image/background.png');
+    background-size: cover;
+}
+
+h1 {
+    margin-bottom: 16px;
+}
